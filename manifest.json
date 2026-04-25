@@ -1,0 +1,16 @@
+{
+  "name": "USANA 商品計算機",
+  "short_name": "USANA 計算機",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a56a0",
+  "theme_color": "#1a56a0",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3004/3004458.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
